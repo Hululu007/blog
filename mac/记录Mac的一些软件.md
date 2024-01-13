@@ -35,10 +35,22 @@
 
 - [clash-verge](https://github.com/MetaCubeX/clash-verge)
     - 科学(魔法)工具
+    - 支持 clash yml 订阅
+    - 最好用的 clash 工具
     - 这款内置的是 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
     - 安装包，v1.3.9
         - [Clash.Verge_1.3.9_x64.dmg下载](https://github.com/MetaCubeX/clash-verge/releases/download/v1.3.9/Clash.Verge_1.3.9_x64.dmg)
         - [Clash.Verge_1.3.9_x64.dmg加速下载](https://ghproxy.top/https://github.com/MetaCubeX/clash-verge/releases/download/v1.3.9/Clash.Verge_1.3.9_x64.dmg)
+
+- [hiddify-next](https://github.com/hiddify/hiddify-next)
+    - 科学(魔法)工具
+    - 内置的核心是 sing-box
+    - 支持 clash yml 订阅、通用base64编码的v2ray订阅
+    - 有自动测速，目前持续开发中
+    - 支持 Android、IOS、MacOS、Windows、Linux 平台，多平台支持
+    - macOS安装包，v0.13.6
+        - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
+        - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
 
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
     - 仅支持SSR节点的科学工具
