@@ -52,13 +52,6 @@
         - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
         - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
 
-- [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
-    - 仅支持SSR节点的科学工具
-    - 其他一些客户端可以参考文章：https://itlanyan.com/shadowsockr-shadowsocksr-shadowsocksrr-clients
-    - 版本v1.4.4
-        - [ShadowsocksX-NG-R8.dmg](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
-        - [ShadowsocksX-NG-R8.dmg加速下载](https://ghproxy.top/https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
-
 
 ## 免费软件
 
