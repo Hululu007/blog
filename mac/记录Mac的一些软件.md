@@ -48,20 +48,15 @@
     - 支持 clash yml 订阅、通用base64编码的v2ray订阅
     - 有自动测速，目前持续开发中
     - 支持 Android、IOS、MacOS、Windows、Linux 平台，多平台支持
-    - macOS 10.15以上，macOS安装包，v0.13.6
-        - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
-        - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.13.6/hiddify-macos-universal.zip)
     - macOS 10.15以上，v0.14.20
         - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
+        - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
 
 
 ## 免费软件
 
 - Google Chrome
     - 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
-
-- Firefox
-    - 火狐浏览器，多个历史版本可以下载：https://ftp.mozilla.org/pub/firefox/releases/
 
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
     - 免费的多线程下载器。
@@ -75,8 +70,5 @@
 
 - Parallels Desktop
     - Mac平台最好的虚拟机软件
-
-- Typora
-    - 1.0之前的版本是免费的，非常不错的 markdown 编辑和阅读软件
 
 
