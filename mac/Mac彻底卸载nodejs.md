@@ -1,10 +1,10 @@
 # Mac彻底卸载node js
 
-1. 要彻底卸载 Node.js，可以按照以下步骤进行操作：
+1.要彻底卸载 Node.js，可以按照以下步骤进行操作：
 
 首先，使用终端命令行或者 Finder 找到 Node.js 的安装目录，一般情况下默认安装在 /usr/local 或者 /usr/local/bin 目录下。
 
-2. 在终端中输入以下命令来删除 Node.js 的安装目录及其相关文件：
+2.在终端中输入以下命令来删除 Node.js 的安装目录及其相关文件：
 
 ```bash
 sudo rm -rf /usr/local/bin/node
@@ -18,13 +18,13 @@ sudo rm -rf /usr/local/bin/node-waf
 sudo rm -rf /usr/local/include/node_modules
 ```
 
-3. 接着，还需要删除 Node.js 的配置文件，输入以下命令：
+3.接着，还需要删除 Node.js 的配置文件，输入以下命令：
 ```bash
 sudo rm -rf ~/.npm
 sudo rm -rf ~/.node-gyp
 ```
 
-4. 最后，可以使用以下命令来验证是否已经彻底卸载 Node.js：
+4.最后，可以使用以下命令来验证是否已经彻底卸载 Node.js：
 ```bash
 node -v
 npm -v
