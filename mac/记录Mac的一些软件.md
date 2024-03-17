@@ -31,16 +31,16 @@
         - [x64_dmg加速下载](https://ghproxy.top/https://github.com/troyeguo/koodo-reader/releases/download/v1.5.9/Koodo-Reader-1.5.9-x64.dmg)
 
 - 关于科学工具
-    - 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU/)、[hiddify-next](https://github.com/hiddify/hiddify-next/)，最后还是 clash 系列家族最好用，且占用存储最小
+    - 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)、[hiddify-next](https://github.com/hiddify/hiddify-next)，最后还是 clash 系列家族最好用，且占用存储最小
 
-- [clash-verge](https://github.com/MetaCubeX/clash-verge)
+- [clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)
     - 科学(魔法)工具
     - 支持 clash yml 订阅
     - 最好用的 clash 工具
     - 这款内置的是 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
-    - 安装包，v1.3.9
-        - [Clash.Verge_1.3.9_x64.dmg下载](https://github.com/MetaCubeX/clash-verge/releases/download/v1.3.9/Clash.Verge_1.3.9_x64.dmg)
-        - [Clash.Verge_1.3.9_x64.dmg加速下载](https://ghproxy.top/https://github.com/MetaCubeX/clash-verge/releases/download/v1.3.9/Clash.Verge_1.3.9_x64.dmg)
+    - 安装包，v1.5.9，要求 macOS 10.15+ (intel/apple)
+        - [Clash.Verge_1.5.9_x64.dmg下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.9/Clash.Verge_1.5.9_x64.dmg)
+        - [Clash.Verge_1.5.9_x64.dmg加速下载](https://ghproxy.top/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.9/Clash.Verge_1.5.9_x64.dmg)
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
     - 科学(魔法)工具
@@ -48,7 +48,7 @@
     - 支持 clash yml 订阅、通用base64编码的v2ray订阅
     - 有自动测速，目前持续开发中
     - 支持 Android、IOS、MacOS、Windows、Linux 平台，多平台支持
-    - macOS 10.15以上，v0.14.20
+    - 要求 macOS 10.15 以上，v0.14.20
         - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
         - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
 
