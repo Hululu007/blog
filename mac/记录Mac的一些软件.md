@@ -51,7 +51,9 @@
     - 要求 macOS 10.15 以上，v0.14.20
         - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
         - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
-
+    - 要求 macOS 10.15 以上，v1.0.0
+        - [Hiddify-MacOS.dmg下载](https://github.com/hiddify/hiddify-next/releases/download/v1.0.0/Hiddify-MacOS.dmg)
+        - [Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.0.0/Hiddify-MacOS.dmg)
 
 ## 免费软件
 

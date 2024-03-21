@@ -7,44 +7,17 @@
 ## 去广告
 [去广告过滤规则记录](./anti_ad/去广告过滤规则记录.md)
 
+## Flutter
+[Flutter相关内容目录](./flutter/list.md)
+
 ## git
-[git提交](./git/Git的提交.md)
-
-[git版本回退](./git/Git的版本回退.md)
-
-[git分支操作](./git/git分支操作.md)
-
-[git记住密码](./git/git记住密码.md)
-
-[git配置全局用户邮箱](./git/git配置全局用户邮箱.md)
-
-[git为项目单独配置用户名和邮箱](./git/git为项目单独配置用户名和邮箱.md)
-
-[git生成SSH密钥](./git/git生成SSH密钥.md)
-
-[Github之pull request](./git/Github之pr.md)
-
-[Git拉取某个分支的某个提交](./git/Git拉取某个分支的某个提交.md)
+[Git相关内容目录](./git/list.md)
 
 ## okhttp
-[Okhttp3之get请求](./okhttp/Okhttp3之get请求.md)
-
-[Okhttp3之post请求不传递参数](./okhttp/Okhttp3之post请求不传递参数.md)
-
-[Okhttp3之post请求发送form表单数据](./okhttp/Okhttp3之post请求发送form表单数据.md)
-
-[Okhttp3之post请求发送json数据](./okhttp/Okhttp3之post请求发送json数据.md)
-
-[Okhttp3之SSL证书异常情况处理](./okhttp/Okhttp3之SSL证书异常情况处理.md)
-
-[Okhttp创建时设置一些参数](./okhttp/Okhttp创建时设置一些参数.md)
+[Okhttp相关内容目录](./okhttp/list.md)
 
 ## python
-[python多线程超时自动终止](./python/python多线程超时自动终止.md)
-
-[python发送post请求](./python/python发送post请求.md)
-
-[python批量修改文件名](./python/python批量修改文件名.md)
+[python相关内容目录](./python/list.md)
 
 ## JavaScript
 [网页调试陷入无限断点Debugger的解决方法](./js/网页调试陷入无限断点Debugger的解决方法.md)
