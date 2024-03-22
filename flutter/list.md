@@ -15,3 +15,9 @@
 
 - [Navigator 组件](./2.widget/Navigator.md)
 
+- [Navigator 组件2 命名路由传参](./2.widget/Navigator2.md)
+
+- [Navigator 组件3 命名路由传参案例](./2.widget/Navigator3.md)
+
+- [Dialog 组件](./2.widget/Dialog.md)
+
