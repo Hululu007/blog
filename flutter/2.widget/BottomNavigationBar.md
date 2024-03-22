@@ -4,7 +4,9 @@
 ### 各个文件存放目录：
 ![img](./bottom_navigation_bar/01.jpg)
 ### 代码
-- main.dart
+
+main.dart
+
 ```dart
 import 'package:flutter/material.dart';
 import 'pages/tabs.dart';
@@ -25,7 +27,8 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-- tabs.dart
+tabs.dart
+
 ```dart
 import 'package:flutter/material.dart';
 import 'tabs/home.dart';
@@ -114,7 +117,8 @@ class _TabsState extends State<Tabs> {
 }
 ```
 
-- category.dart
+category.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -220,7 +224,8 @@ class _CategoryPageState extends State<CategoryPage> {
 }
 ```
 
-- home.dart
+home.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -240,7 +245,9 @@ class _HomePageState extends State<HomePage> {
   }
 }
 ```
-- setting.dart
+
+setting.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -261,7 +268,8 @@ class _SettingPageState extends State<SettingPage> {
 }
 ```
 
-- user.dart
+user.dart
+
 ```dart
 import 'package:flutter/material.dart';
 

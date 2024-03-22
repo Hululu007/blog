@@ -5,7 +5,9 @@
 ![img](./navigator/01.jpg)
 
 ### 源码文件
-- main.dart
+
+main.dart
+
 ```dart
 import 'package:flutter/material.dart';
 import './pages/tabs/home.dart';
@@ -33,7 +35,8 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-- home.dart
+home.dart
+
 ```dart
 import 'package:flutter/material.dart';
 import '../search.dart';
@@ -98,7 +101,8 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-- form.dart
+form.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -124,7 +128,8 @@ class _FormPageState extends State<FormPage> {
 }
 ```
 
-- news.dart
+news.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -165,7 +170,8 @@ class _NewsPageState extends State<NewsPage> {
 }
 ```
 
-- search.dart
+search.dart
+
 ```dart
 import 'package:flutter/material.dart';
 
