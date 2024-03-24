@@ -26,9 +26,9 @@
 
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader)
     - 开源的阅读软件，支持读取 epub、pdf、azw3、azw、mobi等格式。
-    - 安装包，v1.5.9
-        - [x64_dmg下载](https://github.com/troyeguo/koodo-reader/releases/download/v1.5.9/Koodo-Reader-1.5.9-x64.dmg)
-        - [x64_dmg加速下载](https://ghproxy.top/https://github.com/troyeguo/koodo-reader/releases/download/v1.5.9/Koodo-Reader-1.5.9-x64.dmg)
+    - 安装包，v1.6.5
+        - [Koodo-Reader-1.6.5-x64.dmg下载](https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
+        - [Koodo-Reader-1.6.5-x64.dmg加速下载](https://ghproxy.top/https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
 
 - 关于科学工具
     - 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)、[hiddify-next](https://github.com/hiddify/hiddify-next)，最后还是 clash 系列家族最好用，且占用存储最小
