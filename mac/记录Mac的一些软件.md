@@ -33,7 +33,17 @@
 - 关于科学工具
     - 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)、[hiddify-next](https://github.com/hiddify/hiddify-next)，最后还是 clash 系列家族最好用，且占用存储最小
 
-- [clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)
+
+- [MetaCubeX clash-verge](https://github.com/MetaCubeX/clash-verge)
+    - 科学(魔法)工具
+    - 支持 clash yml 订阅
+    - 最好用的 clash 工具
+    - 这款内置的是 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
+    - 安装包，v1.4.8
+        - [Clash.Verge_1.4.8_x64.dmg下载](https://github.com/MetaCubeX/clash-verge/releases/download/v1.4.8/Clash.Verge_1.4.8_x64.dmg)
+        - [Clash.Verge_1.4.8_x64.dmg加速下载](https://ghproxy.top/https://github.com/MetaCubeX/clash-verge/releases/download/v1.4.8/Clash.Verge_1.4.8_x64.dmg)
+
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
     - 科学(魔法)工具
     - 支持 clash yml 订阅
     - 最好用的 clash 工具
@@ -41,6 +51,14 @@
     - 安装包，v1.5.9，要求 macOS 10.15+ (intel/apple)
         - [Clash.Verge_1.5.9_x64.dmg下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.9/Clash.Verge_1.5.9_x64.dmg)
         - [Clash.Verge_1.5.9_x64.dmg加速下载](https://ghproxy.top/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.9/Clash.Verge_1.5.9_x64.dmg)
+
+- [MetaCubeX ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)
+    - 科学(魔法)工具
+    - 支持 clash yml 订阅
+    - 这款需要手动下载 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
+    - 安装包，v1.3.10，需要 MacOS 11+
+        - [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
+        - [ClashX.Meta.zip加速下载](https://ghproxy.top/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
 - [hiddify-next](https://github.com/hiddify/hiddify-next)
     - 科学(魔法)工具
