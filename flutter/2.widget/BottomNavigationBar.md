@@ -290,7 +290,7 @@ class _UserPageState extends State<UserPage> {
 }
 ```
 
-运行示意图：
+## 运行示意图
 ![img](./bottom_navigation_bar/02.jpg)
 ![img](./bottom_navigation_bar/03.jpg)
 ![img](./bottom_navigation_bar/04.jpg)

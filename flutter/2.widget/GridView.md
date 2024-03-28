@@ -52,7 +52,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./gridview/01.jpg)
 
 ## GridView.extend()创建网格布局
@@ -107,7 +108,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./gridview/02.jpg)
 
 ## GridView.count() 创建网格布局案例
@@ -171,7 +173,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./gridview/03.jpg)
 
 ## GridView.extend() 创建网格布局案例
@@ -235,7 +238,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./gridview/04.jpg)
 
 ## GridView.builder() 创建网格布局
@@ -312,7 +316,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图
+
+## 运行示意图
 ![img](./gridview/05.jpg)
 
 ## GridView.builder() 创建网格布局2
@@ -388,5 +393,6 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./gridview/06.jpg)

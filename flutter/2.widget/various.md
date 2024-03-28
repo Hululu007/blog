@@ -40,7 +40,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/01.jpg)
 
 ## 线性布局组件 Row 组件
@@ -110,7 +111,8 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/02.jpg)
 
 ## 线性布局组件 row 组件案例
@@ -200,10 +202,11 @@ class IconContainer extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/03.jpg)
 
-## 线性布局组件 column 组件
+## 线性布局组件 Column 组件
 ```dart
 import 'package:flutter/material.dart';
 
@@ -218,7 +221,7 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('线性布局组件 column 组件'),
+          title: const Text('线性布局组件 Column 组件'),
         ),
         body: const HomePage(),
       ),
@@ -270,10 +273,11 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/04.jpg)
 
-## 线性布局组件 column 组件案例
+## 线性布局组件 Column 组件案例
 ```dart
 import 'package:flutter/material.dart';
 
@@ -288,7 +292,7 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('线性布局组件 column 组件案例'),
+          title: const Text('线性布局组件 Column 组件案例'),
         ),
         body: const HomePage(),
       ),
@@ -358,7 +362,8 @@ class IconContainer extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/05.jpg)
 
 ## 弹性布局组件 Flex Expended 组件
@@ -462,7 +467,8 @@ class IconContainer extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/06.jpg)
 
 ## 弹性布局组件 Flex Expended 组件 案例
@@ -565,5 +571,6 @@ class HomePage extends StatelessWidget {
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./various/07.jpg)

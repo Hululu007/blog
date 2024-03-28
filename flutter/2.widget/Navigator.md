@@ -197,7 +197,7 @@ class _SearchPageState extends State<SearchPage> {
 }
 ```
 
-### 运行示意图
+## 运行示意图
 ![img](./navigator/02.jpg)
 ![img](./navigator/03.jpg)
 ![img](./navigator/04.jpg)

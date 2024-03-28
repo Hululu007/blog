@@ -77,6 +77,7 @@
 
 - Google Chrome
     - 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
+    - 历史版本：https://github.com/ulixee/chrome-versions
 
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
     - 免费的多线程下载器。

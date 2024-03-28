@@ -131,7 +131,8 @@ class _HomePageState extends State<HomePage>
   }
 }
 ```
-运行示意图：
+
+## 运行示意图
 ![img](./tabbar/01.jpg)
 ![img](./tabbar/02.jpg)
 ![img](./tabbar/03.jpg)
