@@ -1,4 +1,4 @@
-# TabBar 组件
+# TabBar、TabBarView 组件
 
 ## 案例
 ```dart
