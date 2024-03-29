@@ -1,5 +1,8 @@
 # 目录
 
+## 准备
+- [Flutter安装](./0.prepare/flutter安装.md)
+
 ## widget
 - [ListView 组件](./2.widget/ListView.md)
     - 基础用法案例
@@ -68,4 +71,13 @@
 - [Dialog 组件 - 自定义Dialog](./2.widget/Dialog2.md)
 
 - [PageView 组件](./2.widget/PageView.md)
+    - PageView演示
+    - PageViewBuilder演示
+    - pageView 无限加载演示
+    - pageViewSwiper 演示 - 轮播图效果
+
+- [PageView 组件 第二部分](./2.widget/PageView2.md)
+    - PageViewSwiper 演示 - 轮播图效果定时自动切换
+    - PageViewKeepAlive 演示 - 带缓存页面
+    - pageViewKeepAlive 演示 - 带缓存页面(用工具类实现)
 

@@ -40,9 +40,7 @@
 [Java实现AES加密128位CBC模式工具类](./java/Java实现AES加密128位CBC模式工具类.md)
 
 ### JavaScript
-[网页调试陷入无限断点Debugger的解决方法](./js/网页调试陷入无限断点Debugger的解决方法.md)
-
-[解决浏览器调试无限debugger](./js/解决浏览器调试无限debugger.md)
+[JavaScript 相关内容目录](./js/list.md)
 
 ### Linux
 [Linux常用命令](./linux/Linux常用命令.md)
