@@ -33,15 +33,14 @@
 - 关于科学工具
     - 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)、[hiddify-next](https://github.com/hiddify/hiddify-next)，最后还是 clash 系列家族最好用，且占用存储最小
 
-
 - [clash-verge](https://github.com/zzzgydi/clash-verge)
     - 科学(魔法)工具
     - 支持 clash yml 订阅
     - 最好用的 clash 工具
     - 这款内置的是 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
-    - 这个停更了，最后一个版本先用着，这个版本比较稳定
-        - clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用，
-        - Clash Nyanpasu  v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了
+    - 这个停更了，**最后一个版本先用着，这个版本比较稳定**
+        - **clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
+        - **Clash Nyanpasu v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了**
     - 安装包，v1.3.8
         - [Clash.Verge_1.3.8_x64.dmg下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
         - [Clash.Verge_1.3.8_x64.dmg加速下载](https://ghproxy.top/https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
@@ -60,15 +59,16 @@
     - 支持 clash yml 订阅、通用base64编码的v2ray订阅
     - 有自动测速，目前持续开发中
     - 支持 Android、IOS、MacOS、Windows、Linux 平台，多平台支持
-    - 要求 macOS 10.15 以上，v0.14.20
-        - [hiddify-macos-universal.zip](https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
-        - [hiddify-macos-universal.zip加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v0.14.20/hiddify-macos-universal.zip)
-    - 要求 macOS 10.15 以上，v1.0.0
-        - [Hiddify-MacOS.dmg下载](https://github.com/hiddify/hiddify-next/releases/download/v1.0.0/Hiddify-MacOS.dmg)
-        - [Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.0.0/Hiddify-MacOS.dmg)
     - 安装包，v1.1.1，要求 MacOS 10.15 以上
         - [Hiddify-MacOS.dmg下载](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
         - [Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
+
+- [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
+    - 科学(魔法)工具，SSR客户端
+    - 节点可从 [lncn站点](https://lncn.org) 找，该站点需要修改电脑系统hosts文件才可正常访问，修改 hosts 可以看[放牧的风和lncn](../misc/放牧的风和lncn.md)
+    - 版本 v1.4.4，**MacOS 10.14 intel** 测试可用，MacOS 11测试可用
+        - [ShadowsocksX-NG-R8.dmg下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
+        - [ShadowsocksX-NG-R8.dmg加速下载](https://ghproxy.top/https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
 
 ## 免费软件
 
