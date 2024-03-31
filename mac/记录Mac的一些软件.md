@@ -63,18 +63,11 @@
         - [Hiddify-MacOS.dmg下载](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
         - [Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
 
-- [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
-    - 科学(魔法)工具，SSR客户端
-    - 节点可从 [lncn站点](https://lncn.org) 找，该站点需要修改电脑系统hosts文件才可正常访问，修改 hosts 可以看[放牧的风和lncn](../misc/放牧的风和lncn.md)
-    - 版本 v1.4.4，**MacOS 10.14 intel** 测试可用，MacOS 11测试可用
-        - [ShadowsocksX-NG-R8.dmg下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
-        - [ShadowsocksX-NG-R8.dmg加速下载](https://ghproxy.top/https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.4-r8-resigning/ShadowsocksX-NG-R8.dmg)
-
 ## 免费软件
 
 - Google Chrome
     - 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
-    - 历史版本：https://github.com/ulixee/chrome-versions
+    - 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
 
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
     - 免费的多线程下载器。

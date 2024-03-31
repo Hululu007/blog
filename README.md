@@ -17,8 +17,6 @@
 
 [Github加速](./misc/Github加速.md)
 
-[放牧的风和lncn](./misc/放牧的风和lncn.md)
-
 [一些实用站点](./misc/一些实用的站点.md)
 
 [vscode常用快捷键](./misc/vscode常用快捷键.md)
