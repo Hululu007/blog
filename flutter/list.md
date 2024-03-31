@@ -81,3 +81,10 @@
     - PageViewKeepAlive 演示 - 带缓存页面
     - pageViewKeepAlive 演示 - 带缓存页面(用工具类实现)
 
+- [Key 的使用](./2.widget/Key.md)
+    - LocalKey 的使用
+    - GlobalKey 的使用
+    - GlobalKey 案例：父组件获取子组件状态，并修改
+
+- [AnimatedList 组件](./2.widget/AnimatedList.md)
+

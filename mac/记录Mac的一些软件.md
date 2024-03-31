@@ -89,4 +89,8 @@
 - Parallels Desktop
     - Mac平台最好的虚拟机软件
 
+- iShot
+    - 截图、录屏软件，基础功能免费
+    - AppStore 免费下载
+
 
