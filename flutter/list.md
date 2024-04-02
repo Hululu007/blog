@@ -88,3 +88,16 @@
 
 - [AnimatedList 组件](./2.widget/AnimatedList.md)
 
+- [AnimatedContainer 组件](./2.widget/AnimatedContainer.md)
+
+- [AnimatedPadding 组件](./2.widget/AnimatedPadding.md)
+
+- [AnimatedOpacity 组件](./2.widget/AnimatedOpacity.md)
+
+- [AnimatedPositioned 组件](./2.widget/AnimatedPositioned.md)
+
+- [AnimatedDefaultTextStyle 组件](./2.widget/AnimatedDefaultTextStyle.md)
+
+- [AnimatedSwitcher 组件](./2.widget/AnimatedSwitcher.md)
+
+
