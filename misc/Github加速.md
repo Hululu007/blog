@@ -19,3 +19,9 @@
 
 - [https://gh.isteed.cc/](https://gh.isteed.cc/)
 
+- [https://ghproxy.cc/](https://ghproxy.cc/)
+
+- [https://gh.ddlc.top/](https://gh.ddlc.top/)
+
+- [https://gh.jiasu.in/](https://gh.jiasu.in/)
+

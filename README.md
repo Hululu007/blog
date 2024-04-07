@@ -9,15 +9,15 @@
 [去广告过滤规则记录](./anti_ad/去广告过滤规则记录.md)
 
 ### 杂项
-[记录一些常用的脚本](./misc/记录一些常用的脚本.md)
-
 [记录一些安卓软件](./misc/记录一些安卓软件.md)
 
-[MIUI的ROM下载](./misc/MIUI的ROM下载.md)
+[记录一些常用的脚本](./misc/记录一些常用的脚本.md)
+
+[一些实用站点](./misc/一些实用的站点.md)
 
 [Github加速](./misc/Github加速.md)
 
-[一些实用站点](./misc/一些实用的站点.md)
+[MIUI的ROM下载](./misc/MIUI的ROM下载.md)
 
 [vscode常用快捷键](./misc/vscode常用快捷键.md)
 
