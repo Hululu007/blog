@@ -2,6 +2,7 @@
 
 ## 准备
 - [Flutter安装](./0.prepare/flutter安装.md)
+- [flutter run build apk 一直卡在Running Gradle task解决方法](./0.prepare/2.一直卡在Running.md)
 
 ## widget
 - [ListView 组件](./2.widget/ListView.md)
