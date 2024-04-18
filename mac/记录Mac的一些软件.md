@@ -123,6 +123,40 @@
 [Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
 
 
+### [Brave browser](https://github.com/brave/brave-browser)
+
+> 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
+> 
+> 内置 uBlock 插件，可订阅广告过滤规则进行拦截
+> 
+> 支持 Android、IOS、MacOS、Windows等多个平台
+
+> 禁止自动更新的话，需要在电脑系统 hosts 文件里面添加以下内容：
+
+```txt
+#禁止brave浏览器更新 start
+0.0.0.0 updates-cdn.bravesoftware.com
+0.0.0.0 go-updater.brave.com
+0.0.0.0 updates.bravesoftware.com
+0.0.0.0 variations.brave.com
+#禁止brave浏览器更新 end
+
+```
+
+#### 安装包
+
+> v1.57.64，chromium内核116，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
+
+[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.57.64/Brave-Browser-x64.dmg)
+
+[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.57.64/Brave-Browser-x64.dmg)
+
+> v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
+
+[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
+
+[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
+
 
 ## 免费软件
 

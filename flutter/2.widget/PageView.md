@@ -481,25 +481,25 @@ class _PageViewSwiperState extends State<PageViewSwiper> {
     list.add(
       const ImagePage(
         src:
-            'https://www.4kbizhi.com/d/file/2024/03/13/small101638VBaRT1710296198.jpg',
+            'https://jx.phdyw.com/player/img/bj/7.jpg',
       ),
     );
     list.add(
       const ImagePage(
         src:
-            'https://www.4kbizhi.com/d/file/2024/01/01/small123848HInk21704083928.jpg',
+            'https://jx.phdyw.com/player/img/bj/6.jpg',
       ),
     );
     list.add(
       const ImagePage(
         src:
-            'https://www.4kbizhi.com/d/file/2023/12/13/small102610oY4ht1702434370.jpg',
+            'https://jx.phdyw.com/player/img/bj/0.jpg',
       ),
     );
     list.add(
       const ImagePage(
         src:
-            'https://www.4kbizhi.com/d/file/2023/10/16/small105735e45Kf1697425055.jpg',
+            'https://jx.phdyw.com/player/img/bj/3.jpg',
       ),
     );
   }
