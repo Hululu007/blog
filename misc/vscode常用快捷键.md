@@ -13,7 +13,6 @@
 - 格式化选中部分代码：command + K / command +F
     - 这个比较特殊，选中要格式化的代码后，需要先按 command + K，然后再按 command + F
 
-- 格式化选中部分代码(推荐、重点)：command + option(alt) + L
 
 - 选中的变量批量重命名(重点)：F2
 

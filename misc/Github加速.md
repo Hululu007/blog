@@ -1,27 +1,30 @@
 # Github加速
 
-## 通过修改 hosts 来 实现 github 加速，
-项目有：
-- 推荐 [GitHub520](https://github.com/521xueweihan/GitHub520)
-    - [hosts文件下载](https://raw.hellogithub.com/hosts)
-- [jianboy/github-host](https://github.com/jianboy/github-host)
-    - [hosts文件下载](https://cdn.jsdelivr.net/gh/jianboy/github-host/hosts)
+## 修改 hosts 来实现 github 加速
+###  [GitHub520[推荐]](https://github.com/521xueweihan/GitHub520)
 
-- github镜像站
-    - [https://521github.com](https://521github.com)
+[hosts文件下载](https://raw.hellogithub.com/hosts)
 
-## 通过加速站点加速下载文件：
-- [https://ghproxy.top/](https://ghproxy.top/)
+### [jianboy/github-host](https://github.com/jianboy/github-host)
 
-- [https://ghproxy.net/](https://ghproxy.net/)
+[hosts文件下载](https://cdn.jsdelivr.net/gh/jianboy/github-host/hosts)
 
-- [https://github.moeyy.xyz/](https://github.moeyy.xyz/)
+## github镜像站
 
-- [https://gh.isteed.cc/](https://gh.isteed.cc/)
+[https://521github.com](https://521github.com)
 
-- [https://ghproxy.cc/](https://ghproxy.cc/)
+## 通过加速站点加速下载文件
+[https://ghproxy.top/](https://ghproxy.top/)
 
-- [https://gh.ddlc.top/](https://gh.ddlc.top/)
+[https://ghproxy.net/](https://ghproxy.net/)
 
-- [https://gh.jiasu.in/](https://gh.jiasu.in/)
+[https://github.moeyy.xyz/](https://github.moeyy.xyz/)
+
+[https://gh.isteed.cc/](https://gh.isteed.cc/)
+
+[https://ghproxy.cc/](https://ghproxy.cc/)
+
+[https://gh.ddlc.top/](https://gh.ddlc.top/)
+
+[https://gh.jiasu.in/](https://gh.jiasu.in/)
 
