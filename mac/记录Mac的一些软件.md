@@ -125,7 +125,7 @@
 
 ### [Brave browser](https://github.com/brave/brave-browser)
 
-> 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
+> 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用，流畅性、速度比 Chrome 要好一些(个人感觉)
 > 
 > 内置 uBlock 插件，可订阅广告过滤规则进行拦截
 > 
@@ -166,6 +166,27 @@
 
 > 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
 
+
+### Firefox
+
+> 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases](https://ftp.mozilla.org/pub/firefox/releases)
+
+> 与 Google Chrome 相比，Firefox隐私防护更好些，安卓版与电脑端都支持插件。禁止自动更新可以参考文章 [如何禁用 Firefox 自动更新 (macOS, Linux, Windows)](https://sysin.org/blog/disable-firefox-auto-update)
+
+> macOS 版禁止更新的方式，下载好 Firefox dmg 包后，打开 dmg 镜像，将 Firefox app 移动到应用程序里面，然后打开终端Terminal，输入以下命令，然后回车即可，如果搞完后，启动 Firefox 提示 “已损坏”，可以参考 [Mac安装的软件打开提示已损坏](./Mac安装的软件打开提示已损坏.md) 去解决
+
+```bash
+mkdir /Applications/Firefox.app/Contents/Resources/distribution
+
+echo '
+{
+  "policies": {
+    "DisableAppUpdate": true
+  }
+}
+' > /Applications/Firefox.app/Contents/Resources/distribution/policies.json
+
+```
 
 
 ### [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
