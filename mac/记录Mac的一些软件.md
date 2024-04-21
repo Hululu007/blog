@@ -76,8 +76,7 @@
 
 ### 关于科学工具
 
-> 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)、[hiddify-next](https://github.com/hiddify/hiddify-next)，最后还是 clash 系列家族最好用，且占用存储最小
-
+> 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)，最后还是 clash 系列家族最好用，且占用存储最小
 
 
 ### [clash-verge](https://github.com/zzzgydi/clash-verge)
@@ -113,24 +112,6 @@
 [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
 [ClashX.Meta.zip加速下载](https://ghproxy.top/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
-
-
-
-### [hiddify-next](https://github.com/hiddify/hiddify-next)
-
-> 科学(魔法)工具，内置的核心是 sing-box
-
-> 支持 clash yml 订阅、通用base64编码的v2ray订阅，有自动测速，目前持续开发中
-
-> 支持 Android、IOS、MacOS、Windows、Linux 平台，多平台支持
-
-#### 安装包
-
-> v1.1.1，要求 MacOS 10.15 以上
-
-[Hiddify-MacOS.dmg下载](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
-
-[Hiddify-MacOS.dmg加速下载](https://ghproxy.top/https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-MacOS.dmg)
 
 
 ### [Brave browser](https://github.com/brave/brave-browser)
