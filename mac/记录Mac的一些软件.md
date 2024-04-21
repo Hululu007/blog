@@ -8,7 +8,7 @@
 
 #### 安装包
 
->  v1.1.0，2020.10.13构建
+>  v1.1.0，2020.10.13构建，MacOS 10.14 可用
 
 [dmg下载](https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
 
@@ -26,7 +26,7 @@
 
 > 巨硬微软的开源编辑器，简称 vscode，据说是宇宙第一编辑器。
 
-
+> 支持 MacOS 10.14 的比较新的版本：1.79.2
 
 ### [IntelliJ IDEA CE](https://www.jetbrains.com/idea)
 
@@ -34,6 +34,16 @@
 
 > 软件占用内存比较大，打开大型项目开发时对电脑硬件要求比较高。
 
+> 开启特殊通道：https://3.jetbra.in
+
+> 特殊通道相关文章：[https://blog.csdn.net/qq_31140865/article/details/125831320](https://blog.csdn.net/qq_31140865/article/details/125831320)
+
+#### 部分版本要求的 macOS 记录
+> 2022.1.x ~ 2022.3.x macOS 10.14 可用
+
+> 2023.1.x ~ 2023.3.x 要求 macOS 11 以上
+
+> 204.1.x 要求 macOS 12 以上
 
 
 ### [Aria2Gui](https://github.com/NickYang29/aria2gui)
@@ -42,7 +52,7 @@
 
 #### 安装包
 
-> v1.4.1
+> v1.4.1，MacOS 10.14 可用
 
 [zip下载](https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
 
@@ -56,7 +66,7 @@
 
 #### 安装包
 
-> v1.6.5
+> v1.6.5，MacOS 10.14 可用
 
 [Koodo-Reader-1.6.5-x64.dmg下载](https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
 
@@ -82,7 +92,7 @@
 
 #### 安装包
 
-> v1.3.8，这个停更了，最后一个版本先用着，这个版本比较稳定
+> v1.3.8，MacOS 10.14 可用，这个停更了，最后一个版本先用着，这个版本比较稳定
 
 [Clash.Verge_1.3.8_x64.dmg下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
 
@@ -145,17 +155,27 @@
 
 #### 安装包
 
-> v1.57.64，chromium内核116，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
+> v1.56.9，[点击跳转到发布地址](https://github.com/brave/brave-browser/releases/tag/v1.56.9) chromium内核115，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
 
-[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.57.64/Brave-Browser-x64.dmg)
+[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
-[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.57.64/Brave-Browser-x64.dmg)
+[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
 > v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
 
 [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
 [Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
+
+
+### [Motrix](https://github.com/agalwood/Motrix)
+> 基于 Aria2 构建的多线程下载工具，支持磁力种子下载，内置 trackers ，自动更新 trackers，以尽量加快磁力种子下载。
+
+> v1.8.19，macOS 10.14 可以运行，intel版
+
+[Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
+
+[Motrix-1.8.19.dmg加速下载](https://ghproxy.top/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
 
 ## 免费软件
@@ -166,10 +186,18 @@
 
 > 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
 
+> v115 支持 macOS 10.13/10.14的版本，116后面开始要求要 macOS 10.15 以上
+
+[chrome_115下载](https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
+
+[chrome_115加速下载](https://ghproxy.top/https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
+
 
 ### Firefox
 
-> 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases](https://ftp.mozilla.org/pub/firefox/releases)
+> 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
+
+> Firefox 114 版本可以运行在 macOS 10.14 上面
 
 > 与 Google Chrome 相比，Firefox隐私防护更好些，安卓版与电脑端都支持插件。禁止自动更新可以参考文章 [如何禁用 Firefox 自动更新 (macOS, Linux, Windows)](https://sysin.org/blog/disable-firefox-auto-update)
 
@@ -189,6 +217,11 @@ echo '
 ```
 
 
+### [MacZip](https://maczip.cn/?locale=zh-CN)
+
+> 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
+
+
 ### [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 
 > 免费的多线程下载器。
@@ -202,15 +235,24 @@ echo '
 
 > 卸载清理App的好工具
 
+> v8.1.4 可运行在 macOS 10.14
+
+
 ### Parallels Desktop
 
 > Mac平台最好的虚拟机软件
+
+> v17.1.2 要求 macOS 10.13 以上
+
+> v16.5.0 要求 macOS 10.13 以上
 
 ### iShot
 
 > 截图、录屏软件，基础功能免费，AppStore 免费下载
 
+### Typora
 
+> 非常棒的 markdown 编辑器/阅读软件，自 1.0 开始收费。
 
-
+> v1.1.5 可以运行在 macOS 10.14 上面
 

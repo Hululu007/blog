@@ -36,6 +36,11 @@
 
 [Mac一些软件下载站点](./mac/Mac一些软件下载站点.md)
 
+[MacOS中nodejs环境变量配置](./mac/MacOS中nodejs环境变量配置.md)
+
+[MacOS中nodejs配置淘宝镜像](./mac/MacOS中nodejs配置淘宝镜像.md)
+
+
 ### Java
 [Java实现AES加密128位CBC模式工具类](./java/Java实现AES加密128位CBC模式工具类.md)
 
