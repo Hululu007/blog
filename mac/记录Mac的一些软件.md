@@ -39,11 +39,23 @@
 > 特殊通道相关文章：[https://blog.csdn.net/qq_31140865/article/details/125831320](https://blog.csdn.net/qq_31140865/article/details/125831320)
 
 #### 部分版本要求的 macOS 记录
+> 2021.1.x ~ 2021.3.x macOS 10.14 可用
+
 > 2022.1.x ~ 2022.3.x macOS 10.14 可用
 
 > 2023.1.x ~ 2023.3.x 要求 macOS 11 以上
 
-> 204.1.x 要求 macOS 12 以上
+> 2024.1.x 要求 macOS 12 以上
+
+
+### [Motrix](https://github.com/agalwood/Motrix)
+> 基于 Aria2 构建的多线程下载工具，支持磁力种子下载，内置 trackers ，自动更新 trackers，以尽量加快磁力种子下载。
+
+> v1.8.19，macOS 10.14 可以运行，intel版
+
+[Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
+
+[Motrix-1.8.19.dmg加速下载](https://ghproxy.top/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
 
 ### [Aria2Gui](https://github.com/NickYang29/aria2gui)
@@ -149,15 +161,6 @@
 [Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
 
-### [Motrix](https://github.com/agalwood/Motrix)
-> 基于 Aria2 构建的多线程下载工具，支持磁力种子下载，内置 trackers ，自动更新 trackers，以尽量加快磁力种子下载。
-
-> v1.8.19，macOS 10.14 可以运行，intel版
-
-[Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
-
-[Motrix-1.8.19.dmg加速下载](https://ghproxy.top/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
-
 
 ## 免费软件
 
@@ -201,12 +204,6 @@ echo '
 ### [MacZip](https://maczip.cn/?locale=zh-CN)
 
 > 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
-
-
-### [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
-
-> 免费的多线程下载器。
-
 
 
 
