@@ -12,13 +12,13 @@
 
 [dmg下载](https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
 
-[dmg加速下载](https://ghproxy.top/https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
+[dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
 
 > v1.2.0，2021.2.6构建，该版本开始支持 Mac M1 芯片，arm 架构了
 
 [dmg下载](https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
 
-[dmg加速下载](https://ghproxy.top/https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
+[dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
 
 
 
@@ -55,7 +55,7 @@
 
 [Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
-[Motrix-1.8.19.dmg加速下载](https://ghproxy.top/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
+[Motrix-1.8.19.dmg加速下载](https://gh.jiasu.in/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
 
 ### [Aria2Gui](https://github.com/NickYang29/aria2gui)
@@ -68,7 +68,7 @@
 
 [zip下载](https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
 
-[zip加速下载](https://ghproxy.top/https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
+[zip加速下载](https://gh.jiasu.in/https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
 
 
 
@@ -82,7 +82,7 @@
 
 [Koodo-Reader-1.6.5-x64.dmg下载](https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
 
-[Koodo-Reader-1.6.5-x64.dmg加速下载](https://ghproxy.top/https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
+[Koodo-Reader-1.6.5-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
 
 
 
@@ -91,24 +91,30 @@
 > 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)，最后还是 clash 系列家族最好用，且占用存储最小
 
 
-### [clash-verge](https://github.com/zzzgydi/clash-verge)
+### [clashX](https://github.com/bannedbook/ClashX)
 
-> 科学(魔法)工具，支持 clash yml 订阅，最好用的 clash 工具
+> 科学(魔法)工具，支持 clash yml 订阅
 
-> 这款内置的是 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
+> 原作者已经删除仓库，其他人备份的安装包下载
+
+> ClashX v1.118.0，macOS 10.14 以上，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
+
+[ClashX-Pro.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX-Pro.dmg)
+
+[ClashX.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX.dmg)
+
+[ClashX1.95.1.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX1.95.1.dmg)
+
+
+### clash-verge
+
+> 科学(魔法)工具，支持 clash yml 订阅
 
 **clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
 
 **Clash Nyanpasu v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了**
 
-#### 安装包
-
-> v1.3.8，MacOS 10.14 可用，这个停更了，最后一个版本先用着，这个版本比较稳定
-
-[Clash.Verge_1.3.8_x64.dmg下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
-
-[Clash.Verge_1.3.8_x64.dmg加速下载](https://ghproxy.top/https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
-
+**1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱**
 
 
 ### [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)
@@ -123,7 +129,7 @@
 
 [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
-[ClashX.Meta.zip加速下载](https://ghproxy.top/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
+[ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
 
 ### [Brave browser](https://github.com/brave/brave-browser)
@@ -152,13 +158,13 @@
 
 [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
-[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
+[Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
 > v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
 
 [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
-[Brave-Browser-x64.dmg加速下载](https://ghproxy.top/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
+[Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
 
 
@@ -174,7 +180,7 @@
 
 [chrome_115下载](https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
 
-[chrome_115加速下载](https://ghproxy.top/https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
+[chrome_115加速下载](https://gh.jiasu.in/https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
 
 
 ### Firefox
@@ -214,6 +220,8 @@ echo '
 > 卸载清理App的好工具
 
 > v8.1.4 可运行在 macOS 10.14
+
+> v7.8.2 可运行在 macOS 10.14
 
 
 ### Parallels Desktop
