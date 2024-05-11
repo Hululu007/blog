@@ -1,146 +1,128 @@
 # 记录Mac的一些软件
 
-## 开源软件
+![img](./img/open.svg) 表示 **开源软件** 
 
-### [IINA](https://github.com/iina/iina)
+![img](./img/free.svg) 表示 **免费** 使用，或者 个人免费 
 
-> MacOS平台最好的开源播放器软件。
 
-#### 安装包
+### 视频播放
 
->  v1.1.0，2020.10.13构建，MacOS 10.14 可用
+- [IINA](https://github.com/iina/iina) ![img](./img/open.svg) MacOS平台最好的开源播放器软件。
 
-[dmg下载](https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
+  - v1.1.0，2020.10.13构建，MacOS 10.14 可用
+    - [dmg下载](https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
+    - [dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
 
-[dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
+  - v1.2.0，2021.2.6构建，该版本开始支持 Mac M1 芯片，arm 架构了
+    - [dmg下载](https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
+    - [dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
 
-> v1.2.0，2021.2.6构建，该版本开始支持 Mac M1 芯片，arm 架构了
 
-[dmg下载](https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
 
-[dmg加速下载](https://gh.jiasu.in/https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg)
+### 开发编程
 
+- [Visual Studio Code](https://code.visualstudio.com)  ![img](./img/open.svg) 巨硬微软的开源编辑器，简称 vscode，据说是宇宙第一编辑器。
+  - 支持 MacOS 10.14 的比较新的版本：1.79.2
 
+- [IntelliJ IDEA CE](https://www.jetbrains.com/idea)   ![img](./img/free.svg) Jetbrains 公司出品的智能集成开发环境编辑器，这个社区版是开源免费的。可以用于 Java 开发、Android 开发、python 开发，python 开发的话需要安装插件 Python Community Edition。
 
-### [Visual Studio Code](https://code.visualstudio.com)
+  - 软件占用内存比较大，打开大型项目开发时对电脑硬件要求比较高。
 
-> 巨硬微软的开源编辑器，简称 vscode，据说是宇宙第一编辑器。
+  - 开启特殊通道：https://3.jetbra.in
 
-> 支持 MacOS 10.14 的比较新的版本：1.79.2
+  - 特殊通道相关文章：[https://blog.csdn.net/qq_31140865/article/details/125831320](https://blog.csdn.net/qq_31140865/article/details/125831320)
 
-### [IntelliJ IDEA CE](https://www.jetbrains.com/idea)
+  - 部分版本要求的 macOS 记录
 
-> jetbrains 公司出品的智能集成开发环境编辑器，这个社区版是开源免费的。可以用于 Java 开发、Android 开发、python 开发，python 开发的话需要安装插件 Python Community Edition。
+    - 2021.1.x ~ 2021.3.x macOS 10.14 可用
 
-> 软件占用内存比较大，打开大型项目开发时对电脑硬件要求比较高。
+    - 2022.1.x ~ 2022.3.x macOS 10.14 可用
 
-> 开启特殊通道：https://3.jetbra.in
+    - 2023.1.x ~ 2023.3.x 要求 macOS 11 以上
 
-> 特殊通道相关文章：[https://blog.csdn.net/qq_31140865/article/details/125831320](https://blog.csdn.net/qq_31140865/article/details/125831320)
+    - 2024.1.x 要求 macOS 12 以上
 
-#### 部分版本要求的 macOS 记录
-> 2021.1.x ~ 2021.3.x macOS 10.14 可用
+- Typora  非常棒的 markdown 编辑器/阅读软件，自 1.0 开始收费。
+  - v1.1.5 可以运行在 macOS 10.14 上面
 
-> 2022.1.x ~ 2022.3.x macOS 10.14 可用
+### 下载工具
 
-> 2023.1.x ~ 2023.3.x 要求 macOS 11 以上
+- [Motrix](https://github.com/agalwood/Motrix)  ![img](./img/open.svg) 基于 Aria2 构建的多线程下载工具，支持磁力种子下载，内置 trackers ，自动更新 trackers，以尽量加快磁力种子下载。
+  - v1.8.19，macOS 10.14 可以运行，intel版
+    - [Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
+    - [Motrix-1.8.19.dmg加速下载](https://gh.jiasu.in/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
-> 2024.1.x 要求 macOS 12 以上
+- [Aria2Gui](https://github.com/NickYang29/aria2gui)  ![img](./img/open.svg) 基于开源的 Aria 命令行下载工具二次开发而来的多线程下载工具，支持断点续传。
+  - v1.4.1，MacOS 10.14 可用
+    - [zip下载](https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
+    - [zip加速下载](https://gh.jiasu.in/https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
 
 
-### [Motrix](https://github.com/agalwood/Motrix)
-> 基于 Aria2 构建的多线程下载工具，支持磁力种子下载，内置 trackers ，自动更新 trackers，以尽量加快磁力种子下载。
 
-> v1.8.19，macOS 10.14 可以运行，intel版
+### 阅读工具
 
-[Motrix-1.8.19.dmg下载](https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader)  ![img](./img/open.svg) 开源的阅读软件，支持读取 epub、pdf、azw3、azw、mobi等格式。
+  - v1.6.5，MacOS 10.14 可用
+    - [Koodo-Reader-1.6.5-x64.dmg下载](https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
+    - [Koodo-Reader-1.6.5-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
 
-[Motrix-1.8.19.dmg加速下载](https://gh.jiasu.in/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
 
-### [Aria2Gui](https://github.com/NickYang29/aria2gui)
+### 代理工具
 
-> 基于开源的 Aria 命令行下载工具二次开发而来的多线程下载工具，支持断点续传。
+试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)，最后还是 clash 系列家族最好用，且占用存储最小
 
-#### 安装包
+- [clashX](https://github.com/bannedbook/ClashX)  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
-> v1.4.1，MacOS 10.14 可用
+  - 原作者已经删除仓库，其他人备份的安装包下载
 
-[zip下载](https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
+  - ClashX v1.118.0，macOS 10.14 以上，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
 
-[zip加速下载](https://gh.jiasu.in/https://github.com/NickYang29/aria2gui/releases/download/1.4.1/Aria2GUI-v1.4.1.zip)
+  - [ClashX-Pro.dmg 下载](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX-Pro.dmg)
 
+  - [ClashX.dmg 下载](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX.dmg)
 
+  - [ClashX1.95.1.dmg 下载](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX1.95.1.dmg)
 
-### [Koodo Reader](https://github.com/troyeguo/koodo-reader)
+- clash-verge  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
-> 开源的阅读软件，支持读取 epub、pdf、azw3、azw、mobi等格式。
+  - **clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
 
-#### 安装包
+  - **Clash Nyanpasu v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了**
 
-> v1.6.5，MacOS 10.14 可用
+  - **1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱**
 
-[Koodo-Reader-1.6.5-x64.dmg下载](https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
+- [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
-[Koodo-Reader-1.6.5-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/koodo-reader/koodo-reader/releases/download/v1.6.5/Koodo-Reader-1.6.5-x64.dmg)
+  - 这款需要手动下载 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
 
+  - v1.3.10，需要 MacOS 11+
 
+    - [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
-### 关于科学工具
+    - [ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
-> 试用过多款软件[V2rayU](https://github.com/yanue/V2rayU)，最后还是 clash 系列家族最好用，且占用存储最小
+### 浏览器
 
+- [Brave browser](https://github.com/brave/brave-browser) ![img](./img/open.svg) 
 
-### [clashX](https://github.com/bannedbook/ClashX)
+  - 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
 
-> 科学(魔法)工具，支持 clash yml 订阅
+  - 内置 uBlock 插件，可订阅广告过滤规则进行拦截
 
-> 原作者已经删除仓库，其他人备份的安装包下载
+  - v1.56.9，[点击跳转到发布地址](https://github.com/brave/brave-browser/releases/tag/v1.56.9) chromium内核115，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
 
-> ClashX v1.118.0，macOS 10.14 以上，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
+    - [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
-[ClashX-Pro.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX-Pro.dmg)
+    - [Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
-[ClashX.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX.dmg)
+  - v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
 
-[ClashX1.95.1.dmg](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX1.95.1.dmg)
+    - [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
+    - [Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
-### clash-verge
-
-> 科学(魔法)工具，支持 clash yml 订阅
-
-**clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
-
-**Clash Nyanpasu v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了**
-
-**1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱**
-
-
-### [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)
-
-> 科学(魔法)工具，支持 clash yml 订阅
-
-> 这款需要手动下载 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
-
-#### 安装包
-
-> v1.3.10，需要 MacOS 11+
-
-[ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
-
-[ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
-
-
-### [Brave browser](https://github.com/brave/brave-browser)
-
-> 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用，流畅性、速度比 Chrome 要好一些(个人感觉)
-> 
-> 内置 uBlock 插件，可订阅广告过滤规则进行拦截
-> 
-> 支持 Android、IOS、MacOS、Windows等多个平台
-
-> 禁止自动更新的话，需要在电脑系统 hosts 文件里面添加以下内容：
+  - 禁止自动更新的话，需要在电脑系统 hosts 文件里面添加以下内容：
 
 ```txt
 #禁止brave浏览器更新 start
@@ -152,46 +134,20 @@
 
 ```
 
-#### 安装包
-
-> v1.56.9，[点击跳转到发布地址](https://github.com/brave/brave-browser/releases/tag/v1.56.9) chromium内核115，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
-
-[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
-
-[Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
-
-> v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
-
-[Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
-
-[Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
 
+- Google Chrome ![img](./img/free.svg) 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
 
-## 免费软件
+  - 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
 
-### Google Chrome
+  - v112 支持 macOS 10.13/10.14的版本，116后面开始要求要 macOS 10.15 以上，v115每次启动会提示更新系统到 macOS 10.15 以上
+    - [chrome_112下载](https://github.com/ulixee/chrome-versions/releases/download/112.0.5615.137/chrome_112.0.5615.137_mac.tar.gz)
+    - [chrome_112加速下载](https://gh.jiasu.in/https://github.com/ulixee/chrome-versions/releases/download/112.0.5615.137/chrome_112.0.5615.137_mac.tar.gz)
 
-> 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
-
-> 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
-
-> v115 支持 macOS 10.13/10.14的版本，116后面开始要求要 macOS 10.15 以上
-
-[chrome_115下载](https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
-
-[chrome_115加速下载](https://gh.jiasu.in/https://github.com/ulixee/chrome-versions/releases/download/115.0.5790.114/chrome_115.0.5790.114_mac.tar.gz)
-
-
-### Firefox
-
-> 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
-
-> Firefox 114 版本可以运行在 macOS 10.14 上面
-
-> 与 Google Chrome 相比，Firefox隐私防护更好些，安卓版与电脑端都支持插件。禁止自动更新可以参考文章 [如何禁用 Firefox 自动更新 (macOS, Linux, Windows)](https://sysin.org/blog/disable-firefox-auto-update)
-
-> macOS 版禁止更新的方式，下载好 Firefox dmg 包后，打开 dmg 镜像，将 Firefox app 移动到应用程序里面，然后打开终端Terminal，输入以下命令，然后回车即可，如果搞完后，启动 Firefox 提示 “已损坏”，可以参考 [Mac安装的软件打开提示已损坏](./Mac安装的软件打开提示已损坏.md) 去解决
+- Firefox  ![img](./img/free.svg) 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
+  - Firefox 114 版本可以运行在 macOS 10.14 上面
+  - 与 Google Chrome 相比，Firefox隐私防护更好些，安卓版与电脑端都支持插件。禁止自动更新可以参考文章 [如何禁用 Firefox 自动更新 (macOS, Linux, Windows)](https://sysin.org/blog/disable-firefox-auto-update)
+  - macOS 版禁止更新的方式，下载好 Firefox dmg 包后，打开 dmg 镜像，将 Firefox app 移动到应用程序里面，然后打开终端Terminal，输入以下命令，然后回车即可，如果搞完后，启动 Firefox 提示 “已损坏”，可以参考 [Mac安装的软件打开提示已损坏](./Mac安装的软件打开提示已损坏.md) 去解决
 
 ```bash
 mkdir /Applications/Firefox.app/Contents/Resources/distribution
@@ -206,39 +162,45 @@ echo '
 
 ```
 
+### 压缩解压
 
-### [MacZip](https://maczip.cn/?locale=zh-CN)
-
-> 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
-
+- [MacZip](https://maczip.cn/?locale=zh-CN)  ![img](./img/free.svg) 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
 
 
-## 其他软件
 
-### App Cleaner & Uninstaller
+### 系统工具
 
-> 卸载清理App的好工具
+- App Cleaner & Uninstaller  卸载清理App的好工具
 
-> v8.1.4 可运行在 macOS 10.14
+  - v8.1.4 可运行在 macOS 10.14 / 11
 
-> v7.8.2 可运行在 macOS 10.14
+  - v7.8.2 可运行在 macOS 10.14 / 11
+
+### 虚拟机
+
+- Parallels Desktop  Mac平台最好的虚拟机软件
+
+  - v17.1.2 要求 macOS 10.13 以上
+
+  - v16.5.0 要求 macOS 10.13 以上
+
+  - 注意：上面两个版本安装在 macOS 11 上面后，都无法正常从镜像安装 win10 虚拟机，会提示 “您的虚拟机将继续正常运作，但将无法连接网络。”
+
+  - v18以下的版本都是无法在 macOS 11 上正常使用的，v18.3 似乎无法正常读取 USB 设备，更新到 macOS 11 后，换其他虚拟机软件吧，如 VMware
+
+### 截图录屏
+
+- iShot  ![img](./img/free.svg) 截图、录屏软件，基础功能免费，AppStore 免费下载
 
 
-### Parallels Desktop
 
-> Mac平台最好的虚拟机软件
+### 图片处理
 
-> v17.1.2 要求 macOS 10.13 以上
+- photoshop  
 
-> v16.5.0 要求 macOS 10.13 以上
+  - 2017 可用于 macOS 10.13/10.14，无法安装在 macOS 10.15 之后的版本
 
-### iShot
+  - 2019 / 2020 可用于 macOS 10.14，安装在 macOS 11 上有些问题，经常弹出一个窗口提示
 
-> 截图、录屏软件，基础功能免费，AppStore 免费下载
-
-### Typora
-
-> 非常棒的 markdown 编辑器/阅读软件，自 1.0 开始收费。
-
-> v1.1.5 可以运行在 macOS 10.14 上面
+  - 2022 可用于 macOS 11
 
