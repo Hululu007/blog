@@ -123,16 +123,14 @@
     - [Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
 
   - 禁止自动更新的话，需要在电脑系统 hosts 文件里面添加以下内容：
-
-```txt
-#禁止brave浏览器更新 start
-0.0.0.0 updates-cdn.bravesoftware.com
-0.0.0.0 go-updater.brave.com
-0.0.0.0 updates.bravesoftware.com
-0.0.0.0 variations.brave.com
-#禁止brave浏览器更新 end
-
-```
+    ```txt
+    #禁止brave浏览器更新 start
+    0.0.0.0 updates-cdn.bravesoftware.com
+    0.0.0.0 go-updater.brave.com
+    0.0.0.0 updates.bravesoftware.com
+    0.0.0.0 variations.brave.com
+    #禁止brave浏览器更新 end
+    ```
 
 
 
@@ -149,18 +147,18 @@
   - 与 Google Chrome 相比，Firefox隐私防护更好些，安卓版与电脑端都支持插件。禁止自动更新可以参考文章 [如何禁用 Firefox 自动更新 (macOS, Linux, Windows)](https://sysin.org/blog/disable-firefox-auto-update)
   - macOS 版禁止更新的方式，下载好 Firefox dmg 包后，打开 dmg 镜像，将 Firefox app 移动到应用程序里面，然后打开终端Terminal，输入以下命令，然后回车即可，如果搞完后，启动 Firefox 提示 “已损坏”，可以参考 [Mac安装的软件打开提示已损坏](./Mac安装的软件打开提示已损坏.md) 去解决
 
-```bash
-mkdir /Applications/Firefox.app/Contents/Resources/distribution
+    ```bash
+    mkdir /Applications/Firefox.app/Contents/Resources/distribution
 
-echo '
-{
-  "policies": {
-    "DisableAppUpdate": true
-  }
-}
-' > /Applications/Firefox.app/Contents/Resources/distribution/policies.json
+    echo '
+    {
+      "policies": {
+        "DisableAppUpdate": true
+      }
+    }
+    ' > /Applications/Firefox.app/Contents/Resources/distribution/policies.json
 
-```
+    ```
 
 ### 压缩解压
 
