@@ -84,7 +84,24 @@
 
   - [ClashX1.95.1.dmg 下载](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX1.95.1.dmg)
 
-- clash-verge  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
+- [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
+
+  - Clash Meta 核心，与 clash 相比支持更多的协议，如 vless
+
+  - v1.1.7 支持 macOS 10.13 / 10.14
+
+    - [ClashX.Meta.zip 下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.1.7/ClashX.Meta.zip)
+
+    - [ClashX.Meta.zip 加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.1.7/ClashX.Meta.zip)
+
+  - v1.3.10，需要 MacOS 11+
+
+    - [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
+
+    - [ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
+
+
+- [clash-verge](https://github.com/zzzgydi/clash-verge) ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
   - **clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
 
@@ -92,15 +109,6 @@
 
   - **1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱**
 
-- [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
-
-  - 这款需要手动下载 Clash Meta 核心，支持更多的协议，支持多平台：Windows、MacOS、Linux
-
-  - v1.3.10，需要 MacOS 11+
-
-    - [ClashX.Meta.zip下载](https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
-
-    - [ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
 ### 浏览器
 
@@ -176,7 +184,12 @@
 
 ### 虚拟机
 
-- Parallels Desktop  Mac平台最好的虚拟机软件
+- [VMware Fusion](https://www.macbl.com/app/system/vmware-fusion)
+  - 10.1.3 可以运行在 macOS 10.13 / 10.14 上
+  - 12.1.2 要求 macOS 10.15 以上？ **已验证**：macOS 11 可用
+
+
+- Parallels Desktop  Mac平台虚拟机软件
 
   - v17.1.2 要求 macOS 10.13 以上
 
@@ -198,7 +211,7 @@
 
   - 2017 可用于 macOS 10.13/10.14，无法安装在 macOS 10.15 之后的版本
 
-  - 2019 / 2020 可用于 macOS 10.14，安装在 macOS 11 上有些问题，经常弹出一个窗口提示
+  - 2019 / 2020 已验证：可用于 macOS 10.14 / 11
 
   - 2022 可用于 macOS 11
 
