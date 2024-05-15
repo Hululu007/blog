@@ -76,6 +76,8 @@
 
   - 原作者已经删除仓库，其他人备份的安装包下载
 
+  - https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
+
   - ClashX v1.118.0，macOS 10.14 以上，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
 
   - [ClashX-Pro.dmg 下载](https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX-Pro.dmg)
@@ -87,6 +89,12 @@
 - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)  ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
   - Clash Meta 核心，与 clash 相比支持更多的协议，如 vless
+
+  - https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
+
+  - 已经验证：macOS 10.14 可用的版本有：1.1.7、1.2.2、1.2.5，不可用的版本1.2.6+
+
+
 
   - v1.1.7 支持 macOS 10.13 / 10.14
 
@@ -117,12 +125,6 @@
   - 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
 
   - 内置 uBlock 插件，可订阅广告过滤规则进行拦截
-
-  - v1.56.9，[点击跳转到发布地址](https://github.com/brave/brave-browser/releases/tag/v1.56.9) chromium内核115，macOS 10.13 / 10.14 可用，intel版，后面的版本要求 macOS 10.15 以上
-
-    - [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
-
-    - [Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.56.9/Brave-Browser-x64.dmg)
 
   - v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
 
@@ -186,7 +188,8 @@
 
 - [VMware Fusion](https://www.macbl.com/app/system/vmware-fusion)
   - 10.1.3 可以运行在 macOS 10.13 / 10.14 上
-  - 12.1.2 要求 macOS 10.15 以上？ **已验证**：macOS 11 可用
+  - 11.5.6 可运行在 macOS 10.14 上，不可用于 macOS 11 以上
+  - 12.1.2 要求 macOS 10.15 以上？ **已验证**：macOS 11 可用，macOS 10.14不可用
 
 
 - Parallels Desktop  Mac平台虚拟机软件
