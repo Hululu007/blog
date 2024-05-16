@@ -92,6 +92,8 @@
 
   - https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 
+  - https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.yml
+
   - 已经验证：macOS 10.14 可用的版本有：1.1.7、1.2.2、1.2.5，不可用的版本1.2.6+
 
 
@@ -109,13 +111,21 @@
     - [ClashX.Meta.zip加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.10/ClashX.Meta.zip)
 
 
-- [clash-verge](https://github.com/zzzgydi/clash-verge) ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
+- [clash-verge](https://github.com/MetaCubeX/clash-verge) ![img](./img/open.svg) 科学(魔法)工具，支持 clash yml 订阅
 
   - **clash-verge-rev 那个接手更新的版本太卡了(测试 v1.5.11)，偶尔会出现鼠标点击选项切换无效，暂时不建议使用**
 
   - **Clash Nyanpasu v1.5.0和 v1.4.5 都在 MacOS 11 上面启动闪退了**
 
-  - **1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱**
+  - **1.3.8版、1.3.6版在 macOS 10.14 上面每次启动都会弹出窗口提示修改System Event，每次都得选择允许，这软件在 macOS 11 上则正常，离谱，所以 macOS 10.14还是用 ClashX 吧，可以的话，建议早日更新到 macOS 11 以上**
+  - v1.3.8，该版本来源：[zzzgydi](https://github.com/zzzgydi/clash-verge)
+    - [Clash.Verge_1.3.8_x64.dmg 下载](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
+    - [Clash.Verge_1.3.8_x64.dmg 加速下载](https://gh.jiasu.in/https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
+
+  - v1.4.8，该版本来源 [MetaCubeX/clash-verge](https://github.com/MetaCubeX/clash-verge)
+    - [Clash.Verge_1.4.8_x64.dmg 下载](https://github.com/MetaCubeX/clash-verge/releases/download/v1.4.8/Clash.Verge_1.4.8_x64.dmg)
+    - [Clash.Verge_1.4.8_x64.dmg 加速下载](https://gh.jiasu.in/https://github.com/MetaCubeX/clash-verge/releases/download/v1.4.8/Clash.Verge_1.4.8_x64.dmg)
+
 
 
 ### 浏览器
