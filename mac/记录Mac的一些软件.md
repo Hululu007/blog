@@ -130,30 +130,6 @@
 
 ### 浏览器
 
-- [Brave browser](https://github.com/brave/brave-browser) ![img](./img/open.svg) 
-
-  - 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
-
-  - 内置 uBlock 插件，可订阅广告过滤规则进行拦截
-
-  - v1.65.114，chromium内核124，macOS 10.15 以上 intel 版
-
-    - [Brave-Browser-x64.dmg下载](https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
-
-    - [Brave-Browser-x64.dmg加速下载](https://gh.jiasu.in/https://github.com/brave/brave-browser/releases/download/v1.65.114/Brave-Browser-x64.dmg)
-
-  - 禁止自动更新的话，需要在电脑系统 hosts 文件里面添加以下内容：
-    ```txt
-    #禁止brave浏览器更新 start
-    0.0.0.0 updates-cdn.bravesoftware.com
-    0.0.0.0 go-updater.brave.com
-    0.0.0.0 updates.bravesoftware.com
-    0.0.0.0 variations.brave.com
-    #禁止brave浏览器更新 end
-    ```
-
-
-
 - Google Chrome ![img](./img/free.svg) 谷歌浏览器，需要借助科学(魔法)的力量下载，http://www.google.cn/chrome/index.html 里面的似乎不是谷歌的。
 
   - 历史版本：[https://github.com/ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
@@ -161,6 +137,7 @@
   - v112 支持 macOS 10.13/10.14的版本，116后面开始要求要 macOS 10.15 以上，v115每次启动会提示更新系统到 macOS 10.15 以上
     - [chrome_112下载](https://github.com/ulixee/chrome-versions/releases/download/112.0.5615.137/chrome_112.0.5615.137_mac.tar.gz)
     - [chrome_112加速下载](https://gh.jiasu.in/https://github.com/ulixee/chrome-versions/releases/download/112.0.5615.137/chrome_112.0.5615.137_mac.tar.gz)
+
 
 - Firefox  ![img](./img/free.svg) 火狐浏览器，在火狐提供的 ftp 站点可以下载各个平台的各个版本，[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
   - Firefox 114 版本可以运行在 macOS 10.14 上面
@@ -180,6 +157,15 @@
 
     ```
 
+
+- [Brave browser](https://github.com/brave/brave-browser) ![img](./img/open.svg) 
+
+  - 开源浏览器，基于 Chromium 内核，隐私防护方面非常不错的浏览器，推荐使用
+
+  - 内置 uBlock 插件，可订阅广告过滤规则进行拦截
+
+
+
 ### 压缩解压
 
 - [MacZip](https://maczip.cn/?locale=zh-CN)  ![img](./img/free.svg) 免费压缩解压软件，支持压缩文件预览，很多 mac 版的压缩解压软件不支持压缩文件预览功能
@@ -188,7 +174,7 @@
 
 ### 系统工具
 
-- App Cleaner & Uninstaller  卸载清理App的好工具
+- [App Cleaner & Uninstaller](https://macapp.org.cn/app/app-cleaner-and-uninstaller-pro.html)  卸载清理App的好工具
 
   - v8.1.4 可运行在 macOS 10.14 / 11
 
